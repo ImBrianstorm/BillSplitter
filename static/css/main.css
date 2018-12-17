@@ -1,0 +1,18 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+#main-jumbotron {
+    padding-top: 15vw;
+    padding-bottom: 15vw;
+    background-image: linear-gradient(to right, #2575fc , #6A11CB);
+    color: aliceblue;
+}
+
+.title-font {
+    font-family: 'Fredoka One', cursive;
+}
+
+.bg-gr-blue{
+	background-image: linear-gradient(to right, #2575fc , #6A11CB);
+}
