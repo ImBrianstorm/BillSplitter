@@ -1,3 +1,7 @@
+"""User's admin"""
+
 from django.contrib import admin
 
-# Register your models here.
+from .models import Splitter
+
+admin.site.register(Splitter)

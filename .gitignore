@@ -1,7 +1,9 @@
 venv/
-venv-billsplitter/
+.env/
 migrations/
 __pycache__/
 .vscode/
+
+pictures/
 
 db.sqlite3

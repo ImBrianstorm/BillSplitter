@@ -1,12 +1,13 @@
-body {
+html, body {
     font-family: 'Nunito', sans-serif;
 }
 
-#main-jumbotron {
-    padding-top: 15vw;
-    padding-bottom: 15vw;
-    background-image: linear-gradient(to right, #2575fc , #6A11CB);
-    color: aliceblue;
+#jumbotron {
+    padding-top: 3.5rem;   
+}
+
+.mt-navbar {
+    padding-top: 3.5rem;
 }
 
 .title-font {
